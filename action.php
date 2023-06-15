@@ -1,3 +1,3 @@
 <?php
 
-echo 'action';
+echo 'action 3';
